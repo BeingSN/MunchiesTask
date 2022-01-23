@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "companyname": "Munchies",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Lahore"
+  },
+  {
+    "id": 2,
+    "companyname": "Almaida",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/18/14/05/brick-wall-1834784_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Lahore"
+  },
+  {
+    "id": 3,
+    "companyname": "KFC",
+    "logo": " https://cdn.pixabay.com/photo/2015/11/18/17/19/poster-1049571_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Bahawalpur"
+  },
+  {
+    "id": 4,
+    "companyname": "Burger Lab",
+    "logo": "https://cdn.pixabay.com/photo/2021/02/08/07/39/chef-5993951_960_720.jpg",
+    "Speciality": "Grocery",
+    "City": "Karachi"
+  },
+  {
+    "id": 5,
+    "companyname": "Monal",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/29/05/07/breads-1867459_960_720.jpg",
+    "Speciality": "Food",
+    "City": "Islamabad"
+  },
+  {
+    "id": 6,
+    "companyname": "Jade Cafe",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_960_720.jpg",
+    "Speciality": "Electrical",
+    "City": "Karachi"
+  },
+  {
+    "id": 7,
+    "companyname": "Haveli",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/18/22/21/restaurant-1837150_960_720.jpg",
+    "Speciality": "Electrical",
+    "City": "Lahore"
+  },
+  {
+    "id": 8,
+    "companyname": "Stocked Grocer",
+    "logo": "https://cdn.pixabay.com/photo/2016/11/22/23/23/french-fries-1851143_960_720.jpg",
+    "Speciality": "Grocery",
+    "City": "Islamabad"
+  }
+]
